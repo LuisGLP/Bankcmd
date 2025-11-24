@@ -12,7 +12,7 @@ import org.junit.jupiter.params.provider.CsvSource;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * Suite de pruebas para validadores individuales
+ * Unit test case for Validators
  */
 class ValidatorTests {
 
