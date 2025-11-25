@@ -7,7 +7,7 @@ This project is built with **Java 17** and **Maven**, and includes unit tests to
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Bankcmd/
